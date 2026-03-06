@@ -1,0 +1,198 @@
+{
+  "udemy": {
+    "name": "Udemy",
+    "enabled": true,
+    "affiliate_id": "YOUR_UDEMY_AFFILIATE_ID",
+    "affiliate_url": "https://click.linksynergy.com/deeplink?id=YOUR_AFFILIATE_ID&mid=39197&murl=",
+    "base_tracking_url": "https://trk.udemy.com/YOUR_AFFILIATE_ID",
+    "keywords": [
+      "udemy",
+      "course",
+      "courses",
+      "online course",
+      "learning platform",
+      "tutorial course",
+      "learn",
+      "training",
+      "bootcamp",
+      "certification"
+    ],
+    "products": {
+      "python": {
+        "name": "Complete Python Bootcamp",
+        "url": "https://www.udemy.com/course/complete-python-bootcamp/",
+        "description": "Learn Python from scratch with hands-on projects"
+      },
+      "javascript": {
+        "name": "The Complete JavaScript Course",
+        "url": "https://www.udemy.com/course/the-complete-javascript-course/",
+        "description": "Master JavaScript with real-world projects"
+      },
+      "react": {
+        "name": "React - The Complete Guide",
+        "url": "https://www.udemy.com/course/react-the-complete-guide/",
+        "description": "Learn React with hooks, Redux, and Next.js"
+      },
+      "nextjs": {
+        "name": "Next.js & React - Complete Guide",
+        "url": "https://www.udemy.com/course/nextjs-react-the-complete-guide/",
+        "description": "Build production-ready Next.js applications"
+      },
+      "nodejs": {
+        "name": "NodeJS - The Complete Guide",
+        "url": "https://www.udemy.com/course/nodejs-the-complete-guide/",
+        "description": "Master Node.js and build REST APIs"
+      },
+      "typescript": {
+        "name": "Understanding TypeScript",
+        "url": "https://www.udemy.com/course/understanding-typescript/",
+        "description": "Master TypeScript from basics to advanced"
+      },
+      "vue": {
+        "name": "Vue - The Complete Guide",
+        "url": "https://www.udemy.com/course/vuejs-2-the-complete-guide/",
+        "description": "Learn Vue.js with Vuex and Vue Router"
+      },
+      "django": {
+        "name": "Django for Beginners",
+        "url": "https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/",
+        "description": "Build web applications with Django"
+      },
+      "flask": {
+        "name": "REST APIs with Flask and Python",
+        "url": "https://www.udemy.com/course/rest-api-flask-and-python/",
+        "description": "Master Flask and build REST APIs"
+      },
+      "fastapi": {
+        "name": "FastAPI - The Complete Course",
+        "url": "https://www.udemy.com/course/fastapi-the-complete-course/",
+        "description": "Build modern APIs with FastAPI"
+      },
+      "docker": {
+        "name": "Docker & Kubernetes: Complete Guide",
+        "url": "https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/",
+        "description": "Master containerization and orchestration"
+      },
+      "aws": {
+        "name": "AWS Certified Solutions Architect",
+        "url": "https://www.udemy.com/course/aws-certified-solutions-architect-associate/",
+        "description": "Pass AWS certification exam"
+      },
+      "webdev": {
+        "name": "The Complete Web Developer Course",
+        "url": "https://www.udemy.com/course/the-complete-web-developer-course-2/",
+        "description": "Full-stack web development from scratch"
+      },
+      "git": {
+        "name": "Git Complete: The Definitive Guide",
+        "url": "https://www.udemy.com/course/git-complete/",
+        "description": "Master Git and GitHub workflow"
+      }
+    }
+  },
+  "digitalocean": {
+    "name": "DigitalOcean",
+    "enabled": true,
+    "referral_url": "https://m.do.co/c/YOUR_REFERRAL_CODE",
+    "keywords": [
+      "hosting",
+      "vps",
+      "server",
+      "deploy",
+      "deployment",
+      "cloud hosting",
+      "droplet",
+      "digitalocean",
+      "production",
+      "infrastructure",
+      "linux server",
+      "ubuntu server"
+    ],
+    "description": "Get $200 credit for 60 days",
+    "commission_note": "$25 per referral + 25% recurring for 12 months"
+  },
+  "aws": {
+    "name": "AWS (Amazon Web Services)",
+    "enabled": false,
+    "affiliate_tag": "YOUR_AWS_AFFILIATE_TAG",
+    "base_url": "https://aws.amazon.com",
+    "keywords": [
+      "aws",
+      "amazon web services",
+      "ec2",
+      "s3",
+      "lambda",
+      "cloud services",
+      "cloud computing",
+      "serverless"
+    ],
+    "products": {
+      "general": "https://aws.amazon.com/?tag=YOUR_TAG"
+    }
+  },
+  "hostinger": {
+    "name": "Hostinger",
+    "enabled": false,
+    "referral_url": "YOUR_HOSTINGER_REFERRAL",
+    "keywords": [
+      "hostinger",
+      "web hosting",
+      "shared hosting",
+      "cheap hosting",
+      "wordpress hosting"
+    ],
+    "description": "Affordable web hosting starting at $1.99/month"
+  },
+  "vultr": {
+    "name": "Vultr",
+    "enabled": false,
+    "referral_url": "YOUR_VULTR_REFERRAL",
+    "keywords": [
+      "vultr",
+      "cloud compute",
+      "vps",
+      "cloud hosting",
+      "bare metal"
+    ],
+    "description": "High-performance cloud infrastructure"
+  },
+  "linode": {
+    "name": "Linode (Akamai)",
+    "enabled": false,
+    "referral_url": "YOUR_LINODE_REFERRAL",
+    "keywords": [
+      "linode",
+      "akamai",
+      "cloud computing",
+      "linux hosting",
+      "vps"
+    ],
+    "description": "Simplified cloud computing platform"
+  },
+  "vercel": {
+    "name": "Vercel",
+    "enabled": false,
+    "referral_url": "YOUR_VERCEL_REFERRAL",
+    "keywords": [
+      "vercel",
+      "nextjs hosting",
+      "frontend hosting",
+      "edge functions",
+      "jamstack"
+    ],
+    "description": "Deploy Next.js and frontend apps instantly"
+  },
+  "netlify": {
+    "name": "Netlify",
+    "enabled": false,
+    "referral_url": "YOUR_NETLIFY_REFERRAL",
+    "keywords": [
+      "netlify",
+      "jamstack",
+      "static hosting",
+      "serverless functions",
+      "continuous deployment"
+    ],
+    "description": "Modern web deployment platform"
+  }
+}

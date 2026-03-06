@@ -1,0 +1,70 @@
+{
+  "detection": {
+    "stackoverflow_tags": [
+      "python",
+      "javascript",
+      "react",
+      "nextjs",
+      "typescript",
+      "nodejs",
+      "vue",
+      "django",
+      "flask",
+      "fastapi"
+    ],
+    "reddit_subreddits": [
+      "webdev",
+      "learnprogramming",
+      "reactjs",
+      "python",
+      "javascript",
+      "node",
+      "Frontend"
+    ],
+    "devto_tags": [
+      "python",
+      "javascript",
+      "webdev",
+      "tutorial",
+      "beginners",
+      "react",
+      "typescript",
+      "nodejs"
+    ],
+    "scan_frequency_hours": 6
+  },
+  "content": {
+    "batch_size": 3,
+    "min_gap_score": 50,
+    "review_required": true,
+    "auto_generate_code": true,
+    "word_count_target": 1500
+  },
+  "distribution": {
+    "platforms": [
+      "devto",
+      "twitter"
+    ],
+    "stagger_minutes": 30,
+    "auto_publish": false,
+    "start_as_draft": true
+  },
+  "monetization": {
+    "affiliate_programs": [
+      "udemy",
+      "digitalocean",
+      "aws",
+      "hostinger",
+      "vultr",
+      "linode"
+    ],
+    "track_conversions": true,
+    "default_affiliate_disclosure": "This post contains affiliate links. "
+  },
+  "ai_provider": "anthropic",
+  "system": {
+    "log_level": "INFO",
+    "backup_frequency_days": 7,
+    "max_retries": 3
+  }
+}
