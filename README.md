@@ -522,8 +522,8 @@ Copyright © 2026 - All Rights Reserved
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@rayyc](https://github.com/rayyc)
+- Email: rayw68449@gmail.com
 - Website: https://yourwebsite.com
 
 ---
